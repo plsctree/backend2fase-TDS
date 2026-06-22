@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "autor": "Jeong Jaehyun",
+        "texto": "my lamin hot lemon 🦴",
+        "publicado": true,
+        "data": "22/06/2026",
+        "metricas": {
+            "curtidas": 127.000,
+            "comentarios": 50.000,
+            "visualizaçoes": 1000000
+        },
+        "comentarios": [
+        { "usuario": "lyanpony", "texto": "ti amuu"},
+        { "usuario2": "plctree", "texto": "fofo :3"}
+        ]
+    }
+]
